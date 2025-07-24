@@ -1,0 +1,83 @@
+# Smart JSON Mapper Configuration
+# This is the main configuration file for the Smart JSON Mapper system
+
+# Global settings
+environment: "production"  # development, staging, production
+debug_mode: false
+data_dir: "data"
+cache_dir: "cache"
+backup_dir: "backups"
+
+# Processing defaults
+default_processing_mode: "batch"  # single, batch, streaming
+enable_interactive_mode: true
+auto_detect_multiple_events: true
+
+# AI/ML Configuration
+ai:
+  enabled: true
+  model_name: "all-MiniLM-L6-v2"
+  similarity_threshold: 0.65
+  max_cache_size: 5000
+  timeout_seconds: 30
+
+# Schema Detection Configuration
+schema:
+  confidence_threshold: 40.0
+  min_confidence_threshold: 50.0
+  max_confidence_threshold: 95.0
+  enable_fallback: true
+  max_recursion_depth: 5
+  
+  # Scoring weights (must sum to 100.0)
+  required_paths_weight: 40.0
+  optional_paths_weight: 30.0
+  distinctive_fields_weight: 30.0
+
+# Performance and Resource Configuration
+performance:
+  max_file_size_mb: 100
+  max_processing_time_seconds: 300
+  max_memory_usage_mb: 2048
+  enable_parallel_processing: true
+  max_worker_threads: 4
+  cache_cleanup_interval_seconds: 3600
+
+# Quality Analysis Configuration
+quality:
+  minimum_quality_score: 40.0
+  
+  # Quality scoring weights (must sum to 100.0)
+  critical_fields_weight: 40.0
+  field_coverage_weight: 25.0
+  data_completeness_weight: 20.0
+  confidence_weight: 15.0
+  
+  # Critical fields required for all schemas
+  critical_fields:
+    - "alert_name"
+    - "severity"
+    - "detected_time"
+    - "log_source"
+    - "contexts.hostname"
+    - "incident_type"
+
+# Logging Configuration
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR, CRITICAL
+  enable_file_logging: true
+  enable_console_logging: true
+  log_file_path: "logs/smart_mapper.log"
+  max_log_file_size_mb: 10
+  backup_count: 5
+  log_format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+
+# Feedback and Learning Configuration
+feedback:
+  enabled: true
+  storage_dir: "feedback_data"
+  auto_apply_threshold: 80.0
+  min_correction_frequency: 2
+  max_feedback_history_days: 90
+  enable_auto_learning: true
+  learning_cycle_interval_days: 7

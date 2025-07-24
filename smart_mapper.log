@@ -1,0 +1,243 @@
+2025-06-11 00:30:27,522 - core_config - INFO - Logging configured successfully
+2025-06-11 00:30:27,522 - smart_mapper_main - INFO - Smart Mapper Core initialized successfully
+2025-06-11 00:30:55,412 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 00:30:55,415 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 00:31:03,585 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 00:31:04,203 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 00:33:40,842 - core_config - INFO - Logging configured successfully
+2025-06-11 00:33:40,847 - smart_mapper_main - INFO - Smart Mapper Core initialized successfully
+2025-06-11 00:33:48,341 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 00:33:48,342 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 00:33:53,704 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 00:33:53,722 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 00:35:19,342 - core_config - INFO - Logging configured successfully
+2025-06-11 00:35:19,342 - smart_mapper_main - INFO - Smart Mapper Core initialized successfully
+2025-06-11 00:35:26,112 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 00:35:26,112 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 00:35:33,843 - huggingface_hub.file_download - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-06-11 09:23:04,587 - core_config - INFO - Logging configured successfully
+2025-06-11 09:23:04,595 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:23:11,432 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:23:11,433 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:25:28,468 - core_config - INFO - Logging configured successfully
+2025-06-11 09:25:28,473 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:25:37,198 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:25:37,199 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:25:43,436 - enhanced_schema_detector - INFO - AI semantic model loaded and tested successfully
+2025-06-11 09:25:43,436 - __main__ - INFO -  Schema detector loaded
+2025-06-11 09:25:43,438 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:25:43,439 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 09:25:46,640 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 09:25:46,661 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 09:25:46,662 - __main__ - INFO -  Field extractor loaded
+2025-06-11 09:25:46,665 - __main__ - INFO -  Semantic Learning engine loaded
+2025-06-11 09:25:46,676 - __main__ - INFO -  Feedback Loop manager loaded
+2025-06-11 09:25:46,677 - __main__ - INFO - Processing file: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:25:46,678 - safe_utils - WARNING - Memory usage 773.9MB exceeds limit 512MB
+2025-06-11 09:25:46,678 - __main__ - INFO - Processing with semantic learning: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:25:46,679 - safe_utils - WARNING - Memory usage 773.9MB exceeds limit 512MB
+2025-06-11 09:29:38,862 - core_config - INFO - Logging configured successfully
+2025-06-11 09:29:38,871 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:29:46,687 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:29:46,688 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:29:51,898 - enhanced_schema_detector - INFO - AI semantic model loaded and tested successfully
+2025-06-11 09:29:51,899 - __main__ - INFO -  Schema detector loaded
+2025-06-11 09:29:51,901 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:29:51,902 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 09:29:55,599 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 09:29:55,622 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 09:29:55,623 - __main__ - INFO -  Field extractor loaded
+2025-06-11 09:29:55,626 - __main__ - INFO -  Semantic Learning engine loaded
+2025-06-11 09:29:55,634 - __main__ - INFO -  Feedback Loop manager loaded
+2025-06-11 09:29:55,635 - __main__ - INFO - Processing file: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:29:55,636 - safe_utils - WARNING - Memory usage 774.0MB exceeds limit 512MB
+2025-06-11 09:29:55,636 - __main__ - INFO - Processing with semantic learning: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:29:55,636 - safe_utils - WARNING - Memory usage 774.0MB exceeds limit 512MB
+2025-06-11 09:30:53,513 - core_config - INFO - Logging configured successfully
+2025-06-11 09:30:53,521 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:31:02,547 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:31:02,548 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:31:08,690 - enhanced_schema_detector - INFO - AI semantic model loaded and tested successfully
+2025-06-11 09:31:08,691 - __main__ - INFO -  Schema detector loaded
+2025-06-11 09:31:08,693 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:31:08,694 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 09:31:12,274 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 09:31:12,294 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 09:31:12,295 - __main__ - INFO -  Field extractor loaded
+2025-06-11 09:31:12,297 - __main__ - INFO -  Semantic Learning engine loaded
+2025-06-11 09:31:12,306 - __main__ - INFO -  Feedback Loop manager loaded
+2025-06-11 09:31:12,307 - __main__ - INFO - Processing file: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:31:12,315 - __main__ - INFO - File loaded successfully: 627646 bytes
+2025-06-11 09:31:12,316 - __main__ - INFO -  Found nested events: 50 events
+2025-06-11 09:31:12,317 - __main__ - INFO - Processing as multiple events: 50 events
+2025-06-11 09:31:12,317 - __main__ - INFO - Extracting individual events from data structure
+2025-06-11 09:31:12,317 - __main__ - INFO -  Found 50 events using Trend Micro pattern
+2025-06-11 09:31:12,318 - __main__ - INFO - Processing batch 1 (50 events)
+2025-06-11 09:31:14,550 - enhanced_schema_detector - INFO - Primary confidence 60.0% below threshold, trying fallback
+2025-06-11 09:31:17,985 - enhanced_schema_detector - INFO - Primary confidence 60.0% below threshold, trying fallback
+2025-06-11 09:31:20,815 - enhanced_schema_detector - INFO - Primary confidence 60.0% below threshold, trying fallback
+2025-06-11 09:31:23,271 - enhanced_schema_detector - INFO - Primary confidence 60.0% below threshold, trying fallback
+2025-06-11 09:31:25,766 - enhanced_schema_detector - INFO - Primary confidence 60.0% below threshold, trying fallback
+2025-06-11 09:32:20,193 - core_config - INFO - Logging configured successfully
+2025-06-11 09:32:20,200 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:32:26,914 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:32:26,914 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:32:32,669 - enhanced_schema_detector - INFO - AI semantic model loaded and tested successfully
+2025-06-11 09:32:32,670 - __main__ - INFO -  Schema detector loaded
+2025-06-11 09:32:32,673 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:32:32,674 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 09:32:36,154 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 09:32:36,174 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 09:32:36,175 - __main__ - INFO -  Field extractor loaded
+2025-06-11 09:32:36,177 - __main__ - INFO -  Semantic Learning engine loaded
+2025-06-11 09:32:36,184 - __main__ - INFO -  Feedback Loop manager loaded
+2025-06-11 09:32:36,184 - __main__ - INFO - Processing file: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:32:36,192 - __main__ - INFO - File loaded successfully: 627646 bytes
+2025-06-11 09:32:36,192 - __main__ - INFO -  Found nested events: 50 events
+2025-06-11 09:32:36,193 - __main__ - INFO - Processing as multiple events: 50 events
+2025-06-11 09:32:36,193 - __main__ - INFO - Extracting individual events from data structure
+2025-06-11 09:32:36,193 - __main__ - INFO -  Found 50 events using Trend Micro pattern
+2025-06-11 09:32:36,194 - __main__ - INFO - Processing batch 1 (50 events)
+2025-06-11 09:35:01,180 - __main__ - INFO - Processing complete: 50 successful, 0 failed
+2025-06-11 09:35:01,208 - safe_utils - INFO - Writing file to: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_batch_20250611_093501.json
+2025-06-11 09:35:01,219 - safe_utils - INFO - File written successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_batch_20250611_093501.json (842765 bytes)
+2025-06-11 09:35:01,220 - __main__ - INFO -  File saved successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_batch_20250611_093501.json (842765 bytes)
+2025-06-11 09:35:01,227 - safe_utils - INFO - Writing file to: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_summary_20250611_093501.json
+2025-06-11 09:35:01,233 - safe_utils - INFO - File written successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_summary_20250611_093501.json (646 bytes)
+2025-06-11 09:35:01,234 - __main__ - INFO -  File saved successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_summary_20250611_093501.json (646 bytes)
+2025-06-11 09:35:01,236 - __main__ - INFO - Processing with semantic learning: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\cortex_azurites.json
+2025-06-11 09:35:01,247 - __main__ - INFO - File loaded successfully: 627646 bytes
+2025-06-11 09:35:04,133 - __main__ - WARNING - Semantic field extraction failed: OperationResult.__init__() got an unexpected keyword argument 'metadata'
+2025-06-11 09:35:04,134 - __main__ - INFO - Generated output filename: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_semantic_20250611_093504.json
+2025-06-11 09:35:04,148 - safe_utils - INFO - Writing file to: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_semantic_20250611_093504.json
+2025-06-11 09:35:04,157 - safe_utils - INFO - File written successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_semantic_20250611_093504.json (783937 bytes)
+2025-06-11 09:35:04,158 - __main__ - INFO -  File saved successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\cortex_azurites_semantic_20250611_093504.json (783937 bytes)
+2025-06-11 09:38:30,217 - core_config - INFO - Logging configured successfully
+2025-06-11 09:38:30,218 - practical_auto_learning - INFO -  Auto-Learner initialized with 0 patterns
+2025-06-11 09:38:30,219 - practical_auto_learning - INFO -  Auto-Learning Integrator initialized
+2025-06-11 09:38:30,219 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:38:43,522 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:38:43,522 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:38:49,539 - enhanced_schema_detector - INFO - AI semantic model loaded and tested successfully
+2025-06-11 09:38:49,540 - __main__ - INFO -  Schema detector loaded
+2025-06-11 09:38:49,542 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:38:49,544 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 09:38:53,008 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 09:38:53,029 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 09:38:53,029 - __main__ - INFO -  Field extractor loaded
+2025-06-11 09:38:53,033 - __main__ - INFO -  Semantic Learning engine loaded
+2025-06-11 09:38:53,047 - __main__ - INFO -  Feedback Loop manager loaded
+2025-06-11 09:38:53,048 - __main__ - INFO - Processing file: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\crowdstrike_azurites.json
+2025-06-11 09:38:53,056 - __main__ - INFO - File loaded successfully: 574745 bytes
+2025-06-11 09:38:53,057 - __main__ - INFO -  Found nested events: 50 events
+2025-06-11 09:38:53,057 - __main__ - INFO - Processing as multiple events: 50 events
+2025-06-11 09:38:53,058 - __main__ - INFO - Extracting individual events from data structure
+2025-06-11 09:38:53,058 - __main__ - INFO -  Found 50 events using Trend Micro pattern
+2025-06-11 09:38:53,058 - __main__ - INFO - Processing batch 1 (50 events)
+2025-06-11 09:38:58,923 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:01,501 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:04,494 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:06,971 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:09,588 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:12,093 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:14,531 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:24,739 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:27,387 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:30,070 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:33,151 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:36,922 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:40,175 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:43,234 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:47,410 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:50,126 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:54,097 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:39:56,923 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:00,054 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:02,801 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:07,679 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:11,105 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:17,559 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:20,560 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:23,812 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:27,079 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:30,045 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:33,406 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:36,678 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:45,115 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:48,191 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:51,063 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:40:56,312 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:41:09,136 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:41:14,753 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:41:17,488 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:41:20,701 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:41:24,298 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:41:24,320 - __main__ - INFO - Processing complete: 50 successful, 0 failed
+2025-06-11 09:41:24,343 - safe_utils - INFO - Writing file to: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_batch_20250611_094124.json
+2025-06-11 09:41:24,357 - safe_utils - INFO - File written successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_batch_20250611_094124.json (802853 bytes)
+2025-06-11 09:41:24,359 - __main__ - INFO -  File saved successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_batch_20250611_094124.json (802853 bytes)
+2025-06-11 09:41:24,364 - safe_utils - INFO - Writing file to: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_summary_20250611_094124.json
+2025-06-11 09:41:24,370 - safe_utils - INFO - File written successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_summary_20250611_094124.json (677 bytes)
+2025-06-11 09:41:24,372 - __main__ - INFO -  File saved successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_summary_20250611_094124.json (677 bytes)
+2025-06-11 09:41:24,374 - __main__ - INFO - Processing with semantic learning: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\crowdstrike_azurites.json
+2025-06-11 09:41:24,384 - __main__ - INFO - File loaded successfully: 574745 bytes
+2025-06-11 09:41:27,799 - __main__ - WARNING - Semantic field extraction failed: OperationResult.__init__() got an unexpected keyword argument 'metadata'
+2025-06-11 09:41:27,802 - __main__ - INFO - Generated output filename: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_semantic_20250611_094127.json
+2025-06-11 09:41:27,814 - safe_utils - INFO - Writing file to: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_semantic_20250611_094127.json
+2025-06-11 09:41:27,830 - safe_utils - INFO - File written successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_semantic_20250611_094127.json (730977 bytes)
+2025-06-11 09:41:27,831 - __main__ - INFO -  File saved successfully: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\output\crowdstrike_azurites_semantic_20250611_094127.json (730977 bytes)
+2025-06-11 09:43:46,760 - core_config - INFO - Logging configured successfully
+2025-06-11 09:43:46,760 - practical_auto_learning - INFO -  Auto-Learner initialized with 0 patterns
+2025-06-11 09:43:46,761 - practical_auto_learning - INFO -  Auto-Learning Integrator initialized
+2025-06-11 09:43:46,761 - __main__ - INFO - Smart Mapper Core initialized successfully
+2025-06-11 09:43:56,439 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:43:56,440 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-06-11 09:44:03,191 - enhanced_schema_detector - INFO - AI semantic model loaded and tested successfully
+2025-06-11 09:44:03,192 - __main__ - INFO -  Schema detector loaded
+2025-06-11 09:44:03,195 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-06-11 09:44:03,195 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-06-11 09:44:06,789 - universal_field_extractor - INFO - AI semantic model initialized: all-MiniLM-L6-v2
+2025-06-11 09:44:06,812 - universal_field_extractor - INFO - AI semantic model initialized successfully
+2025-06-11 09:44:06,813 - __main__ - INFO -  Field extractor loaded
+2025-06-11 09:44:06,815 - __main__ - INFO -  Semantic Learning engine loaded
+2025-06-11 09:44:06,826 - __main__ - INFO -  Feedback Loop manager loaded
+2025-06-11 09:44:06,827 - __main__ - INFO - Processing file: C:\Users\tanakorn.y\Desktop\abc\alert_examples\Azurites\crowdstrike_azurites.json
+2025-06-11 09:44:06,838 - __main__ - INFO - File loaded successfully: 574745 bytes
+2025-06-11 09:44:06,839 - __main__ - INFO -  Found nested events: 50 events
+2025-06-11 09:44:06,839 - __main__ - INFO - Processing as multiple events: 50 events
+2025-06-11 09:44:06,840 - __main__ - INFO - Extracting individual events from data structure
+2025-06-11 09:44:06,841 - __main__ - INFO -  Found 50 events using Trend Micro pattern
+2025-06-11 09:44:06,841 - __main__ - INFO - Processing batch 1 (50 events)
+2025-06-11 09:44:12,787 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:15,491 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:18,483 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:21,226 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:23,920 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:26,486 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:29,040 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:39,414 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:42,177 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:44,716 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:47,394 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:50,158 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:52,860 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:55,415 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:44:57,991 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:00,574 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:03,151 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:05,836 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:08,571 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:11,329 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:14,014 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:16,638 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:22,113 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:24,605 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:27,125 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:30,269 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:32,965 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:36,472 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:39,102 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:46,941 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:49,630 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:52,245 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
+2025-06-11 09:45:58,103 - enhanced_schema_detector - INFO - Primary confidence 45.0% below threshold, trying fallback
